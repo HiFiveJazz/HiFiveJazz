@@ -1,6 +1,5 @@
 - 👋 Just a lone bioengineer
 - 🌱 I’m currently developing the Risk of Rain 2 damage analyzer
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at jasmeet.bhatia.us@gmail.com
 
 <!---
