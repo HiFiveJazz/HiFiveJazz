@@ -1,6 +1,7 @@
 # Hello, I'm Jazz! 👋
+*Everything would be better with Vim keybindings*
 
-I'm a Bioengineering: Biosystems student at UC San Diego with a passion for Computer Science!
+<!--I'm a Bioengineering: Biosystems student at UC San Diego with a passion for Computer Science!-->
 
 ## About Me
 
@@ -14,7 +15,7 @@ Here are some of the technologies and tools I work with:
 
 - Languages: Python, Rust, Java, MatLab, TeX, Lua
 - Frameworks: TensorFlow, PyTorch
-- Tools: Neovim, Slack
+- Tools: Customized Neovim, Slack
 
 ## GitHub Stats
 
