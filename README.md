@@ -1,6 +1,6 @@
 # Hello, I'm Jazz! 👋
 
-I'm a Bioengineering:Biosystems student with a passion for Computer Science!
+I'm a Bioengineering: Biosystems student at UC San Diego with a passion for Computer Science!
 
 ## About Me
 
@@ -18,7 +18,7 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Jazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiFiveJazz)](https://github.com/HiFiveJazz/github-readme-stats)
 
 ## Connect with Me
 
