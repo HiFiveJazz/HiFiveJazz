@@ -20,6 +20,8 @@ Here are some of the technologies and tools I work with:
 
 <!--[![Jazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiFiveJazz)](https://github.com/HiFiveJazz/github-readme-stats)-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiveJazz&layout=pie)](https://github.com/HiFiveJazz/github-readme-stats)
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jasmeet-bhatia-446a141b2/)
