@@ -25,4 +25,4 @@ Here are some of the technologies and tools I work with:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jasmeet-bhatia-446a141b2/)
+- [LinkedIn](https://www.linkedin.com/in/jasmeet-bhatia-446a141b2/)
