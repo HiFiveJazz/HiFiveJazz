@@ -14,8 +14,8 @@
 Here are some of the technologies and tools I work with:
 
 - Languages: 🐍 Python 🦀 Rust ☕ Java 📊 MatLab 📄 TeX 🌙 Lua 
-- Frameworks: TensorFlow 🤖 PyTorch 🔥
-- Tools: Neovim 📝 Slack 💬
+- Frameworks: 🤖 TensorFlow 🔥 PyTorch 
+- Tools: 📝 Neovim 💬 Slack
 
 ## GitHub Stats
 
