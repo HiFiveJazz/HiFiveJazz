@@ -13,7 +13,7 @@
 
 Here are some of the technologies and tools I work with:
 
-- Languages: Python 🐍 Rust 🦀 Java ☕ MatLab 📊 TeX 📄 Lua 🌙
+- Languages: 🐍 Python 🦀 Rust ☕ Java 📊 MatLab 📄 TeX 🌙 Lua 
 - Frameworks: TensorFlow 🤖 PyTorch 🔥
 - Tools: Neovim 📝 Slack 💬
 
