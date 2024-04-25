@@ -6,7 +6,7 @@
 ## About Me
 
 - 🔭 I’m currently working on the Risk of Rain Damage Analyzer
-- 🌱 I’m currently learning React.js, TypeScript, and Rust
+- 🌱 I’m currently learning x86 Assembly
 - 📫 How to reach me: jasmeet.bhatia.us@gmail.com
 
 ## Technologies
