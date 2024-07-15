@@ -1,19 +1,19 @@
 # Hello, I'm Jazz! 👋
 *Everything would be better with Vim keybindings*
 
-<!--I'm a Bioengineering: Biosystems student at UC San Diego with a passion for Computer Science!-->
+<!--I'm a Bioengineering: Biosystems student at UC San Diego with a passion for Computer Engineering!-->
 
 ## About Me
 
 - 🔭 I’m currently working on the Risk of Rain Damage Analyzer
-- 🌱 I’m currently learning x86 Assembly
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: jasmeet.bhatia.us@gmail.com
 
 ## Technologies
 
 Here are some of the technologies and tools I work with:
 
-- Languages: 🐍 Python 🦀 Rust ☕ Java 📊 MatLab 📄 TeX 🌙 Lua 
+- Languages: 🔧 x86 Assembly 🐍 Python 🦀 Rust ☕ Java 📊 MatLab 📄 TeX 🌙 Lua 
 - Frameworks: 🤖 TensorFlow 🔥 PyTorch 
 - Tools: 📝 Neovim 💬 Slack
 
