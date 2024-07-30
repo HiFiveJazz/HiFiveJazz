@@ -1,7 +1,24 @@
 # Hello, I'm Jazz! 👋
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hifivejazz&label=Profile%20views&color=0e75b6&style=flat" alt="hifivejazz" /> </p> -->
 *Everything would be better with Vim keybindings*
 
 <!--I'm a Bioengineering: Biosystems student at UC San Diego with a passion for Computer Engineering!-->
+
+<a><h2>Stats</h2></a>
+<div>
+<div style="display: flex; justify-content: center; align-items: center; ">    
+    <a href="https://github.com/HiFiveJazz/github-readme-stats">
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiveJazz&layout=pie"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hifivejazz&hide_border=true"/>
+    </a>
+</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiveJazz&layout=pie)](https://github.com/HiFiveJazz/github-readme-stats) -->
+    <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+    <!--     <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=hifivejazz&column=6&row=1&no-frame=true"/> -->
+    <!-- </a> -->
+</div>
 
 ## About Me
 
@@ -73,11 +90,10 @@
     <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="discord" width="40" height="40"/> </a> 
 </p>
 
-## GitHub Stats
-
+<!-- ## GitHub Stats -->
+<!---->
 <!-- [![Jazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiFiveJazz)](https://github.com/HiFiveJazz/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiveJazz&layout=pie)](https://github.com/HiFiveJazz/github-readme-stats)
 
 ## Connect with Me
 
