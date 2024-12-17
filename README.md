@@ -22,8 +22,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on the Risk of Rain Damage Analyzer
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on the MiraMizu App for iOS!
+- 🌱 I’m currently learning to implement Rust in low level computing
 - 📫 How to reach me: jasmeet.bhatia.us@gmail.com
 
 <a>
