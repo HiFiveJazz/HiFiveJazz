@@ -22,7 +22,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on the MiraMizu App for iOS!
+- 🔭 I’m currently working at Somatek Inc as an R&D Associate along with completing my masters at Dartmouth College in Computer Engineering!
 - 🌱 I’m currently learning to implement Rust in low level computing
 - 📫 How to reach me: jasmeet.bhatia.us@gmail.com
 
