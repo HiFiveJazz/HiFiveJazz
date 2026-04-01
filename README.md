@@ -98,15 +98,3 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <!-- <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="gimp" width="40" height="40"/> </a>  -->
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/> </a> 
-    <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  -->
-    <!-- <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> </a>  -->
-    <!-- Communication -->
-    <!-- <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> </a>  -->
-    <!-- <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="discord" width="40" height="40"/> </a>  -->
-</h3>
-
-<!-- ## GitHub Stats -->
-<!---->
-<!-- [![Jazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiFiveJazz)](https://github.com/HiFiveJazz/github-readme-stats) -->
-
-
