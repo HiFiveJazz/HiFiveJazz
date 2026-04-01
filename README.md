@@ -1,18 +1,17 @@
 # Howdy, I'm Jazz! 👋
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hifivejazz&label=Profile%20views&color=0e75b6&style=flat" alt="hifivejazz" /> </p> -->
 *Everything would be better with Vim keybindings*
 
-<a><h2>Stats</h2></a>
-<div>
-<div style="display: flex; justify-content: center; align-items: center; ">    
-    <a href="https://github.com/HiFiveJazz/github-readme-stats">
-        <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiveJazz&layout=pie"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hifivejazz&hide_border=true"/>
-    </a>
-</div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiveJazz&layout=pie)](https://github.com/HiFiveJazz/github-readme-stats) -->
+<h2>Stats</h2>
+
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img 
+      alt="Streak Stats" 
+      height="180"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=hifivejazz&hide_border=true"
+    />
+  </a>
+</p><!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiveJazz&layout=pie)](https://github.com/HiFiveJazz/github-readme-stats) -->
     <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
     <!--     <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=hifivejazz&column=6&row=1&no-frame=true"/> -->
     <!-- </a> -->
@@ -81,7 +80,6 @@
     <!-- Databases -->
 <h3>Databases</h3>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <!-- Python Data Science Projects -->
 <h3>Academic Research</h3>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
