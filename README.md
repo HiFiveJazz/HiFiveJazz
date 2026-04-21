@@ -91,7 +91,7 @@
   <a href="https://matplotlib.org/"><img src="./icons/matplotlib.svg" width="40" height="40"/></a>
   <a href="https://numpy.org/"><img src="./icons/numpy.svg" width="40" height="40"/></a>
   <a href="https://www.r-project.org/"><img src="./icons/r.svg" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/"><img src="./icons/matlab.png" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/"><img src="./icons/matlab.svg" width="40" height="40"/></a>
   <a href="https://www.latex-project.org/"><img src="./icons/latex.svg" width="40" height="40"/></a>
 </p>
 
