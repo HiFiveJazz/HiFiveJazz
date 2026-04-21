@@ -53,7 +53,7 @@
   <a href="https://www.st.com/content/st_com/en.html"><img src="./icons/stm.png" width="60" height="40"/></a>
   <a href="https://www.arm.com/"><img src="./icons/aarch64.svg" width="40" height="40"/></a>
   <a href="https://www.raspberrypi.com/"><img src="./icons/raspberrypi.svg" width="40" height="40"/></a>
-  <a href="https://www.espressif.com/"><img src="./icons/espressif.png" width="40" height="40"/></a>
+  <a href="https://www.espressif.com/"><img src="./icons/espressif.svg" width="40" height="40"/></a>
 </p>
 
 ### Terminal
