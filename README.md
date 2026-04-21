@@ -51,7 +51,7 @@
 ### Embedded Programming
 <p align="left">
   <a href="https://www.st.com/content/st_com/en.html"><img src="./icons/stm.png" width="60" height="40"/></a>
-  <a href="https://www.arm.com/"><img src="./icons/arm.svg" width="130" height="40"/></a>
+  <a href="https://www.arm.com/"><img src="./icons/aarch64.svg" width="40" height="40"/></a>
   <a href="https://www.raspberrypi.com/"><img src="./icons/raspberrypi.svg" width="40" height="40"/></a>
   <a href="https://www.espressif.com/"><img src="./icons/espressif.png" width="40" height="40"/></a>
 </p>
@@ -59,7 +59,7 @@
 ### Terminal
 <p align="left">
   <a href="https://sw.kovidgoyal.net/kitty/"><img src="./icons/kitty.svg" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="./icons/gnu.svg" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="./icons/bash.svg" width="40" height="40"/></a>
   <a href="https://neovim.io/"><img src="./icons/neovim.svg" width="40" height="40"/></a>
   <a href="https://www.lua.org/"><img src="./icons/lua.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="./icons/git.svg" width="40" height="40"/></a>
